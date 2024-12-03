@@ -1,0 +1,17 @@
+{
+    "name": "wp2/scaffold",
+    "description": "Scaffolding system for WP2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "WP2\\Scaffold\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinny Green",
+            "email": "vinnysgreen@gmail.com"
+        }
+    ],
+    "require": {}
+}
